@@ -1,1 +1,1 @@
-# Information-Retrieval-Project-2
+In this project, you will be given a sample input text file consisting of Doc IDs and sentences. Based on this provided input text file, your task is to build your own inverted index and host it as a Flask app for querying. Your index should be stored as a Linked List in memory. Having built this index, you are required to implement a Document-at-a-time (DAAT) strategy to return Boolean query results. Your implementation should be based only on Python3.
